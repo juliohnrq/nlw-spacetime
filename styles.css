@@ -82,8 +82,12 @@ nav {
   border-radius: 8px;
 }
 
+.memory:hover div {
+  outline: 3px white solid;
+}
+
 .memory:hover img {
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
 .memory p {
